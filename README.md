@@ -11,6 +11,7 @@
       <li>Atualmente trabalho como desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/appsaudeagora/">Saúde Agora</a></li>
       <li>Possuo <b>2 anos de experiência</b> como desenvolvedor full stack</li>
       <li>Estou cursando Ciência da Computação (6/8) no Centro Universitário de Belo Horizonte</li>
+      <li>Sou formado em Tecnologia da Informação pelo IFMG-OB</li>
     </ul>
   </details>
 
