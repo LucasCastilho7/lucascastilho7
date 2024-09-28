@@ -1,19 +1,52 @@
-# 💫 About Me: | Sobre Mim:
+<h2>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=500&color=CA6EF7&width=435&lines=Ol%C3%A1%2C+sou+o+Lucas+%F0%9F%91%8B;Sou+desenvolvedor+de+software+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+    </a>
+  </h2>
 
-<div style="display: flex;">
-  <a href="https://open.spotify.com/user/izyonbr?si=b8aa713023eb446e">
-    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=izyonbr&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-  </a>
+  <details>
+    <summary>💫 Sobre mim:</summary>
+    <br/>
+    <ul>
+      <li>Atualmente trabalho como desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/appsaudeagora/">Saúde Agora</a></li>
+      <li>Possuo <b>2 anos de experiência</b> como desenvolvedor full stack</li>
+      <li>Estou cursando Ciência da Computação (6/8) no Centro Universitário de Belo Horizonte</li>
+    </ul>
+  </details>
 
-  <span>Hi, I'm Lucas, a Full Stack developer from Brazil, a programmer passionate about challenges and solving problems. <br>Besides programming, i love gaming and listening to good music.</span>
-  <br>
-  <span><br>Olá, sou o Lucas, desenvolvedor Full Stack do Brasil, um programador apaixonado em desafios e resolução de problemas. <br> Além de programaçãom, amo jogar e escutar música de qualidade. </span>
+  <hr/>
 
-  <br><span>Falo inglês fluente.</span>
-</div>
+  <details>
+    <summary>👨‍💻 Sou desenvolvedor Full Stack do Brasil, um programador apaixonado em desafios e resolução de problemas. Minha stack é:</summary>
+    <br/>
+    <div>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+      <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Manjaro--35BF5C?style=for-the-badge&logo=manjaro&logoColor=234FC08D">
+      <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" />
+    </div>
+  </details>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-castilho-b73291238) 
+  <hr/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <details>
+    <summary>💻 Tecnologias que pretendo aprender no futuro:</summary>
+    <br/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=fff" />
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  </details>
